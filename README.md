@@ -1,5 +1,7 @@
 # Doodle God
 
+- List of Doodle God reactions
+
 ```mermaid
 graph LR
 
@@ -56,4 +58,7 @@ fire --> steam
 
 fire --> lava
 earth --> lava
+
+tree --> treant
+life --> treant
 ```
