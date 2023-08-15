@@ -76,6 +76,6 @@ plasma --> lightbulb
 seeds --> coffee
 energy --> coffee
 
-sand --> palmtree[Palm Tree]
-tree --> palmtree[Palm Tree]
+sand --> palmtree[palm tree]
+tree --> palmtree[palm tree]
 ```
