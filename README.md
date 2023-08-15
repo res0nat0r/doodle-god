@@ -77,5 +77,5 @@ seeds --> coffee
 energy --> coffee
 
 sand --> palmtree[Palm Tree]
-tree -> palmtree[Palm Tree]
+tree --> palmtree[Palm Tree]
 ```
