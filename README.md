@@ -69,4 +69,7 @@ lava --> glass
 
 sand --> dust
 air --> dust
+
+glass --> lightbulb
+plasma --> lightbulb
 ```
