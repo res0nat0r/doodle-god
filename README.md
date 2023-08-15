@@ -63,4 +63,7 @@ life --> treant
 
 stone --> sand
 air --> sand
+
+sand --> glass
+lava --> glass
 ```
