@@ -90,4 +90,7 @@ fire --> ash
 
 tree --> apple
 water --> apple
+
+apple --> worm
+life --> worm
 ```
