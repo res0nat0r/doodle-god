@@ -60,4 +60,7 @@ earth --> lava
 
 tree --> treant
 life --> treant
+
+stone --> sand
+air --> sand
 ```
