@@ -75,4 +75,7 @@ plasma --> lightbulb
 
 seeds --> coffee
 energy --> coffee
+
+sand --> palm_tree[Palm Tree]
+tree -> palm_tree[Palm Tree]
 ```
