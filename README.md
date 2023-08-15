@@ -78,4 +78,10 @@ energy --> coffee
 
 sand --> palmtree[palm tree]
 tree --> palmtree[palm tree]
+
+sand --> clay
+water --> clay
+
+clay --> bricks
+fire --> bricks
 ```
