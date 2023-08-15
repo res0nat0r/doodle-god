@@ -84,4 +84,7 @@ water --> clay
 
 clay --> bricks
 fire --> bricks
+
+dust --> ash
+fire --> ash
 ```
