@@ -66,4 +66,7 @@ air --> sand
 
 sand --> glass
 lava --> glass
+
+sand --> dust
+air --> dust
 ```
