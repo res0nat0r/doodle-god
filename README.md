@@ -87,4 +87,7 @@ fire --> bricks
 
 dust --> ash
 fire --> ash
+
+tree --> apple
+water --> apple
 ```
