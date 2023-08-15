@@ -72,4 +72,7 @@ air --> dust
 
 glass --> lightbulb
 plasma --> lightbulb
+
+seeds --> coffee
+energy --> coffee
 ```
