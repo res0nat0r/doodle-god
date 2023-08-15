@@ -1,6 +1,5 @@
-# Doodle God
+# Doodle God Reactions
 
-- List of Doodle God reactions
 
 ```mermaid
 graph LR
