@@ -96,4 +96,7 @@ life --> worm
 
 life --> ghost
 ash --> ghost
+
+swamp --> bacteria
+life --> bacteria
 ```
