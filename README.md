@@ -99,4 +99,7 @@ ash --> ghost
 
 swamp --> bacteria
 life --> bacteria
+
+corpse --> ash
+fire --> ash
 ```
