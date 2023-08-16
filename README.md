@@ -102,4 +102,7 @@ life --> bacteria
 
 bacteria --> plankton
 energy --> plankton
+
+bacteria --> fish
+plankton --> fish
 ```
