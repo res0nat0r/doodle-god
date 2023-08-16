@@ -99,4 +99,7 @@ ash --> ghost
 
 swamp --> bacteria
 life --> bacteria
+
+bacteria --> plankton
+energy --> plankton
 ```
