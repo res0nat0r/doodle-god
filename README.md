@@ -93,4 +93,7 @@ water --> apple
 
 apple --> worm
 life --> worm
+
+life --> ghost
+ash --> ghost
 ```
