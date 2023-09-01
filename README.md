@@ -105,4 +105,10 @@ energy --> plankton
 
 bacteria --> fish
 plankton --> fish
+
+fish --> dolphin
+plankton --> dolphin
+
+fish --> whale
+plankton --> whale
 ```
